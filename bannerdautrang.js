@@ -118,8 +118,7 @@ $(window).load(function() {
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
 			$("#myModal").html("<a href='http://otothanhtu.blogspot.com' 
-			target='_blank'><img src='https://4.bp.blogspot.com/-r8ooIutYKBE/Wway--KOvSI/AAAAAAAAAMY/TJ40kghUhN09fOAPykY8OOS-mSrI5-JpQCLcBGAs/s320/xe-mo-hinh-sat-ti-le-124-lamborghini-aventador-vang-1509948005-5529791-0e6b72205d716476826e56746c722921.jpg'
-			width='500px'/><br/>13 bán xe đang thịnh hành</a>. LH : 0982405470. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			target='_blank'><img src='https://4.bp.blogspot.com/-r8ooIutYKBE/Wway--KOvSI/AAAAAAAAAMY/TJ40kghUhN09fOAPykY8OOS-mSrI5-JpQCLcBGAs/s320/xe-mo-hinh-sat-ti-le-124-lamborghini-aventador-vang-1509948005-5529791-0e6b72205d716476826e56746c722921.jpg' width='500px'/><br/>bán xe đang thịnh hành</a>. LH : 0982405470. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
